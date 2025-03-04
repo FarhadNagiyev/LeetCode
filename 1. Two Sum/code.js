@@ -1,5 +1,5 @@
 let nums = [3, 3] 
-let target = 6
+let target = 6;
 
 let twoSum = function (nums, target) {
 
